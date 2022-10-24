@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 #### I'm Full stack software engineer from Finland currently located in Barcelona, Spain.
-I mainly work with JavaScript technologies with some examples listed below, but I'm always ready to learn something new.
+I mainly work with JavaScript technologies with some examples listed below, but I'm always ready to learn something new. I especially enjoy front end development and creating PWA applications with frameworks like React or Next.js.
 
 ### :hammer_and_wrench: Languages :
 
@@ -13,7 +13,7 @@ I mainly work with JavaScript technologies with some examples listed below, but 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :hammer_and_wrench: Front End :
+### :hammer_and_wrench: Front End tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -23,7 +23,7 @@ I mainly work with JavaScript technologies with some examples listed below, but 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind css" alt="Tailwind css" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Back End :
+### :hammer_and_wrench: Back End tools:
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
