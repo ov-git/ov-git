@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 #### I'm Full stack software engineer from Finland currently located in Barcelona, Spain.
-I mainly work with JavaScript technologies with some examples listed below, but I'm always ready to learn something new. I especially enjoy front end development and creating PWA applications with frameworks like React or Next.js.
+I mainly work with JavaScript technologies with some examples listed below, but I'm always ready to learn something new. I especially thrive in frontend development and creating PWA applications with frameworks like React or Next.js.
 
 ### :hammer_and_wrench: Languages :
 
