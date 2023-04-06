@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### I'm Full stack software engineer from Finland currently located in Finland.
+#### I'm Full stack software engineer from Finland currently located in Helsinki area.
 I mainly work with JavaScript technologies with some examples listed below, but I'm always ready to learn something new. I especially thrive in frontend development and creating PWA applications with frameworks like React or Next.js using TypeScript.
 
 ### :hammer_and_wrench: Languages :
